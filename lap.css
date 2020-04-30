@@ -1,0 +1,20 @@
+.head{
+  width:740px;
+  height:500px;
+  margin:auto;
+}
+
+.top{
+  float: left;
+  margin-top:115px;
+}
+
+.head img{
+  margin-top: 25px;
+}
+/* __________________________________ */
+
+section{
+  flex-wrap:wrap;
+  /* width:1000px; */
+}
